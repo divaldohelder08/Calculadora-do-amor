@@ -12,6 +12,12 @@ Apenas um projecto do segundo trimestre da escola
 > - Randomicos
 > - Valor default para cada letra do abcdario
 
+
+## Tecnologias
+- HTMl
+- CSS
+- JAVACRIPT
+
 ## 💊Por favor deixe uma 🌟
 
 <div align="center">
