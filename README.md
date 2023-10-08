@@ -14,7 +14,7 @@ Apenas um trabalho de escola
       <b>Visitors Count👋</b>
     </p>  
     <p align="center">
-      <img align="center" src="https://profile-counter.glitch.me/{relogio}/count.svg" />
+      <img align="center" src="https://profile-counter.glitch.me/{Calculadora-do-amor}/count.svg" />
     </p> 
   <br>
 </div>
