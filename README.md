@@ -4,7 +4,7 @@
 Bem-vindo ao repositório do meu projeto. Não esqueça de deixar o seu like!
 
 ## Objectivo
-Apenas um trabalho de escola
+Apenas um projecto do segundo trimestre da escola
 
 ## 💊Por favor deixe uma 🌟
 
