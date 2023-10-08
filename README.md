@@ -4,7 +4,13 @@
 Bem-vindo ao repositório do meu projeto. Não esqueça de deixar o seu like!
 
 ## Objectivo
+Calculadora de amor entre dois seres heteros<br>
 Apenas um projecto do segundo trimestre da escola
+
+## Descrição
+>Existem dois metodos de calcular que são:
+> - Randomicos
+> - Valor default para cada letra do abcdario
 
 ## 💊Por favor deixe uma 🌟
 
