@@ -14,9 +14,9 @@ Apenas um projecto do segundo trimestre da escola
 
 
 ## Tecnologias
-- HTMl
-- CSS
-- JAVACRIPT
+- HTMl;
+- CSS;
+- JAVACRIPT;
 
 ## 💊Por favor deixe uma 🌟
 
